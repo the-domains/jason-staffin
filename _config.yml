@@ -1,0 +1,28 @@
+name: Jason Staffin
+favicon: null
+layout_spectrum: 0.15086978441104293
+typography_spectrum: 0.9655248536728323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9001536094583571
+  lightness: 0.645904753357172
+  saturation: 0.8646655974444002
+  rhythmicContrast: 0.012520259479060769
+purpose: []
